@@ -1,4 +1,5 @@
-This repository contains the code for the python introduction lab. The purpose is to have a fairly simple
+This repository contains the code for the python introduction lab. The
+purpose is to have a fairly simple 
 python assignment that introduces the basic features and tools of python
 
 In the repository are two plain text files with lots of words. Your assignment is to create a python 2 program which: 
@@ -15,4 +16,10 @@ To test your program we provide wordCountTest.py and two key files. This test pr
 
 `$ python wordCountTest.py declaration.txt myOutput.txt declarationKey.txt`
 
-The re regular expression library and python dictionaries should be used in your program. 
+The re regular expression library and python dictionaries should be
+used in your program. 
+
+Note that there are two major dialects of Python.  Python 3.0 is
+incompatible with 2.7.   As a result, Python 2.7 remains popular.  All
+of our examples are in 2.7.  We (mildly) encourage students to use 2.7
+for their assignments. 
