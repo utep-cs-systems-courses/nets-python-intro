@@ -24,7 +24,7 @@ differences with the key file. An example use is:
 The re regular expression library and python dictionaries should be
 used in your program. 
 
-Note that there are two major dialects of Python.  Python 3.0 is
-incompatible with 2.7.   As a result, Python 2.7 remains popular.  All
-of our examples are in 2.7.  We (mildly) encourage students to use 2.7
-for their assignments. 
+Note that there are two major dialects of Python.  Python 3.* is
+incompatible with 2*.  As a result, Python 2.7 remains popular.  All
+of our examples have recently been ported to 3.*.  We (mildly)
+encourage students to use that dialect of Python.
